@@ -11,77 +11,65 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
+### Sariah Daly
+
+__410.446.2849 • sariah.daly.vet@gmail.com • www.linkedin.com/Sariahdaly__
+
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+I am pursuing a major in Pre-Vet and a certificate in Data Science full-time at Brigham Young University - Idaho. I actively get involved in and alternate between various campus organizations like Ballroom dance, Pre-Vet Society, and Peer Mentoring. Next semester I have been hired to tutor for CHEM 105.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021 - NOW`
+__Brigham Young University - Idaho.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelors of Animal Science: Pre-Vet
+- Certificate in Data Science
 
-- Sizar
+`Fall 2024 - NOW`
+__BYU-I Pre-Vet Society.__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Secretary [Fall 2024]
 
-- Fellow
+`Fall 2023`
+__Heber J. Grant Peer Mentor.__
 
+`Spring 2023 - Spring 2024`
+__Ballroom Dance Instructor.__
 
+- Manager (Spring 2024)
 
-## Awards
+## Work Experience
 
-`2012`
-President, *Royal Society*, London, UK
+`May 2023 – August 2023`
+__Church Camp Counselor__, Provo, UT
+<br>*For The Strength of Youth Program – Brigham Young University*
 
-Associate, *French Academy of Science*, Paris, France
+- Taught material from the provided handbook with inspired changes from related sources
+- Provided enriching activities and learning to youth to connect with their faith
+- Communicated with Assistant Coordinators, Coordinators, and other leadership to ensure connection
+- Exhibited positivity, patience, and flexibility in times of unpredictability and error
+- Catered to youth's individual spiritual, physical, and emotional needs
 
+`December 2022 – June 2023`
+__Inventory Manager__, Rexburg, ID
+<br>*Righteous Slice*
 
+- Compiled Cost of Goods Sold, Sales, and Labor data into a Prime Cost report for owner
+- Designed an Excel dashboard to visualize historical, present and future sales data
+- Created a spreadsheet to track details about each item and ensure standardized training in the future
+- Tracked inventory in the restaurant to determine what par levels of each item is needed for the week
+- Communicated with supplier representative to lower prices by 10-20% on more than 20 items
+- Submit orders to suppliers to achieve lowest price possible while maintaining quality
 
-## Publications
+`May 2021 - August 2021`
+__Executive Assistant__, Annapolis Junction, MD
+<br>*TurboHaul*
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Assembled Excel sheets for inventory and led research on collections, earned $895 from selling items in a month
+- Corresponded with President of the company and communicated with clients about accounts receivable, recovered over $5000 owed to the business
+- Reconciled and applied payments, performed data entry, organized human resource files for 50+ employees 
 
 
 <!-- ### Footer
